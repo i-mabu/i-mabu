@@ -9,7 +9,6 @@ I build as an independent developer, **picking up whatever technology the projec
 
 [![GitHub](https://img.shields.io/badge/GitHub-i--mabu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-mabu)
 [![X](https://img.shields.io/badge/X-@xx__mabu__xx-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xx_mabu_xx)
-[![X](https://img.shields.io/badge/X-@i__mabu__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/i_mabu_)
 
 [日本語](README.ja.md) · **English**
 
@@ -77,14 +76,11 @@ The stack changes per project — the tool follows the idea, not the other way a
 | --- | --- |
 | 👤 | **Mabu** (`@i-mabu`) |
 | 📍 | **Gunma, Japan** |
-| ✉️ | [wanko.marble@gmail.com](mailto:wanko.marble@gmail.com) |
-| 𝕏 | [@xx_mabu_xx](https://x.com/xx_mabu_xx) · [@i_mabu_](https://x.com/i_mabu_) |
+| 𝕏 | [@xx_mabu_xx](https://x.com/xx_mabu_xx) |
 
 ## 🤝 Connect
 
-[![Email](https://img.shields.io/badge/Email-wanko.marble%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanko.marble@gmail.com)
 [![X](https://img.shields.io/badge/X-@xx__mabu__xx-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xx_mabu_xx)
-[![X](https://img.shields.io/badge/X-@i__mabu__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/i_mabu_)
 
 ---
 
