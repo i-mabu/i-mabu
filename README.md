@@ -1,0 +1,91 @@
+<div align="center">
+
+# まぶ / Mabu
+
+### 作りたいものを、実際に動くものに。
+
+Discord Bot、Androidアプリ、デスクトップアプリ、開発者向けツール。
+ジャンルを固定せず、**必要になった技術を取り入れながら**個人開発をしています。
+
+[![GitHub](https://img.shields.io/badge/GitHub-i--mabu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-mabu)
+[![X](https://img.shields.io/badge/X-@xx__mabu__xx-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xx_mabu_xx)
+[![X](https://img.shields.io/badge/X-@i__mabu__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/i_mabu_)
+
+**日本語** · [English](README.en.md)
+
+</div>
+
+---
+
+## 👋 自己紹介
+
+「これ作ってみたい」と思ったものを、まず動く形にする個人開発者です。
+
+サーバーで常時動くBot、毎日持ち歩くスマホのアプリ、自分の作業を楽にするツール——
+使う場面がはっきりしているものほど、作るのが楽しく、長く育てられます。
+
+- 🤖 Discord Bot（コミュニティ運営・読み上げ・自動化）
+- 📱 Androidアプリ（完全オフライン動作の実用アプリ）
+- 🖥️ Windows向けデスクトップアプリ / IME
+- 🧰 開発者向けツール（エディタなど）
+- 🛡️ 防災情報アプリ（地震・津波・天気）
+
+## 🚀 公開プロジェクト
+
+| プロジェクト | 説明 | 主な言語 |
+| --- | --- | --- |
+| 🧩 [FORGE](https://github.com/i-mabu/forgebot) | Blueprint方式でサーバー自動化を組み立てる、拡張可能なDiscord Bot | `TypeScript` |
+| 🤖 [mabubot](https://github.com/inumabu/mabubot) | Discordコミュニティ「まぶさば」で稼働する多機能Bot | `TypeScript` |
+| 🔊 [p1228](https://github.com/i-mabu/p1228) | VOICEVOX読み上げBot 3体を運用するDiscord Botシステム | `Go` · `TypeScript` |
+| 🛡️ [AEGIS Android](https://github.com/i-mabu/aegis-android) | 地震・津波・天気情報を一目で把握できる防災アプリ（v1.8.0） | `Kotlin` |
+| ⌨️ [よるかな IME](https://github.com/i-mabu/yorukana-ime) | 完全オフラインで動く日本語入力IME（v1.3.0） | `Kotlin` |
+| 🕐 [よる時計](https://github.com/i-mabu/yoru-clock) | 時計・アラーム・タイマー・ストップウォッチの時計アプリ（v1.2.0） | `Kotlin` |
+| 📁 [FileXplorer](https://github.com/i-mabu/filexplorer-android) | Google Files風のAndroidファイルマネージャー（v1.2.0） | `Kotlin` |
+
+[→ すべての公開リポジトリを見る](https://github.com/i-mabu?tab=repositories)
+
+## 🎮 コミュニティ「まぶさば」
+
+雑談・ゲーム・音楽・画像や動画の共有を楽しむ、公開Discordコミュニティを運営しています。
+ROM専・初見さんも歓迎です。
+
+- 💬 Discord: [discord.gg/GKkW4wCAVp](https://discord.gg/GKkW4wCAVp)
+- 🐦 公式X: [@mabu_saba](https://x.com/mabu_saba)
+- 📝 公式note: [note.com/mabu_saba](https://note.com/mabu_saba)
+
+## 🛠️ 技術スタック
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,kotlin,java,cs,cpp,go,python,js,html,react,vite,electron,docker&perline=10&theme=dark" alt="技術スタック" />
+</p>
+
+`TypeScript` · `Kotlin` · `Java` · `C#` · `C++` · `Go` · `Python` · `JavaScript` · `HTML` · `React` · `Vite` · `Electron` · `discord.js` · `VOICEVOX` · `Monaco Editor` · `SQLite` · `Docker`
+
+作りたいものに合わせて道具を選ぶので、スタックはプロジェクトごとに変わります。
+
+## 🧭 開発スタイル
+
+> **思いつく → 作る → 動かす → 試す → 改善する**
+
+- まず動くものを完成させ、使いながら改善する
+- テストと自動化で「壊れていないこと」を確認できる状態を保つ
+- 完成したものはリリースして、実際に使える形で公開する
+
+## 📍 プロフィール
+
+| | |
+| --- | --- |
+| 👤 | **まぶ / Mabu** (`@i-mabu`) |
+| 📍 | **群馬県, 日本** |
+| ✉️ | [wanko.marble@gmail.com](mailto:wanko.marble@gmail.com) |
+| 𝕏 | [@xx_mabu_xx](https://x.com/xx_mabu_xx) · [@i_mabu_](https://x.com/i_mabu_) |
+
+## 🤝 つながる
+
+[![Email](https://img.shields.io/badge/Email-wanko.marble%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanko.marble@gmail.com)
+[![X](https://img.shields.io/badge/X-@xx__mabu__xx-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xx_mabu_xx)
+[![X](https://img.shields.io/badge/X-@i__mabu__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/i_mabu_)
+
+---
+
+<sub>思いついたら、まず作る。</sub>
