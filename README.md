@@ -31,15 +31,15 @@ Discord Bot、Androidアプリ、デスクトップアプリ、開発者向け�
 
 ## 🚀 公開プロジェクト
 
-| プロジェクト | 説明 | 主な言語 |
-| --- | --- | --- |
-| 🧩 [FORGE](https://github.com/i-mabu/forgebot) | Blueprint方式でサーバー自動化を組み立てる、拡張可能なDiscord Bot | `TypeScript` |
-| 🤖 [mabubot](https://github.com/inumabu/mabubot) | Discordコミュニティ「まぶさば」で稼働する多機能Bot | `TypeScript` |
-| 🔊 [p1228](https://github.com/i-mabu/p1228) | VOICEVOX読み上げBot 3体を運用するDiscord Botシステム | `Go` · `TypeScript` |
-| 🛡️ [AEGIS Android](https://github.com/i-mabu/aegis-android) | 地震・津波・天気情報を一目で把握できる防災アプリ（v1.8.0） | `Kotlin` |
-| ⌨️ [よるかな IME](https://github.com/i-mabu/yorukana-ime) | 完全オフラインで動く日本語入力IME（v1.3.0） | `Kotlin` |
-| 🕐 [よる時計](https://github.com/i-mabu/yoru-clock) | 時計・アラーム・タイマー・ストップウォッチの時計アプリ（v1.2.0） | `Kotlin` |
-| 📁 [FileXplorer](https://github.com/i-mabu/filexplorer-android) | Google Files風のAndroidファイルマネージャー（v1.2.0） | `Kotlin` |
+| プロジェクト                                                    | 説明                                                             | 主な言語            |
+| --------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------- |
+| 🧩 [FORGE](https://github.com/i-mabu/forgebot)                  | Blueprint方式でサーバー自動化を組み立てる、拡張可能なDiscord Bot | `TypeScript`        |
+| 🤖 [mabubot](https://github.com/inumabu/mabubot)                | Discordコミュニティ「まぶさば」で稼働する多機能Bot               | `TypeScript`        |
+| 🔊 [p1228](https://github.com/i-mabu/p1228)                     | VOICEVOX読み上げBot 3体を運用するDiscord Botシステム             | `Go` · `TypeScript` |
+| 🛡️ [AEGIS Android](https://github.com/i-mabu/aegis-android)     | 地震・津波・天気情報を一目で把握できる防災アプリ（v1.8.0）       | `Kotlin`            |
+| ⌨️ [よるかな IME](https://github.com/i-mabu/yorukana-ime)       | 完全オフラインで動く日本語入力IME（v1.3.0）                      | `Kotlin`            |
+| 🕐 [よる時計](https://github.com/i-mabu/yoru-clock)             | 時計・アラーム・タイマー・ストップウォッチの時計アプリ（v1.2.0） | `Kotlin`            |
+| 📁 [FileXplorer](https://github.com/i-mabu/filexplorer-android) | Google Files風のAndroidファイルマネージャー（v1.2.0）            | `Kotlin`            |
 
 [→ すべての公開リポジトリを見る](https://github.com/i-mabu?tab=repositories)
 
@@ -72,11 +72,11 @@ ROM専・初見さんも歓迎です。
 
 ## 📍 プロフィール
 
-| | |
-| --- | --- |
-| 👤 | **まぶ / Mabu** (`@i-mabu`) |
-| 📍 | **群馬県, 日本** |
-| 𝕏 | [@xx_mabu_xx](https://x.com/xx_mabu_xx) |
+|     |                                         |
+| --- | --------------------------------------- |
+| 👤  | **まぶ / Mabu** (`@i-mabu`)             |
+| 📍  | **群馬県, 日本**                        |
+| 𝕏   | [@xx_mabu_xx](https://x.com/xx_mabu_xx) |
 
 ## 🤝 つながる
 
