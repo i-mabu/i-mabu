@@ -28,22 +28,37 @@ Discord Bot、Androidアプリ、デスクトップアプリ、開発者向け�
 - 🖥️ Windows向けデスクトップアプリ / IME
 - 🧰 開発者向けツール（エディタなど）
 - 🛡️ 防災情報アプリ（地震・津波・天気）
+- 🌐 Webサービス（Vercel で公開中）
 
 ## 🚀 公開プロジェクト
 
 | プロジェクト                                                    | 説明                                                             | 主な言語            |
 | --------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------- |
 | 🧩 [FORGE](https://github.com/i-mabu/forgebot)                  | Blueprint方式でサーバー自動化を組み立てる、拡張可能なDiscord Bot | `TypeScript`        |
-| 🤖 [mabubot](https://github.com/inumabu/mabubot)                | Discordコミュニティ「まぶさば」で稼働する多機能Bot               | `TypeScript`        |
-| 🔊 [p1228](https://github.com/i-mabu/p1228)                     | VOICEVOX読み上げBot 3体を運用するDiscord Botシステム             | `Go` · `TypeScript` |
+| 🤖 [mabubot](https://github.com/i-mabu/mabubot)                 | Discordコミュニティ『まぶ鯖』向けの多機能Bot                     | `TypeScript`        |
+| 🔊 [p1228](https://github.com/i-mabu/p1228)                     | VOICEVOX読み上げとAI連携のDiscord Botシステム（現行版は Java 実装の p1228-java） | `Java`              |
 | 🛡️ [AEGIS Android](https://github.com/i-mabu/aegis-android)     | 地震・津波・天気情報を一目で把握できる防災アプリ（v1.8.0）       | `Kotlin`            |
 | ⌨️ [よるかな IME](https://github.com/i-mabu/yorukana-ime)       | 完全オフラインで動く日本語入力IME（v1.3.0）                      | `Kotlin`            |
 | 🕐 [よる時計](https://github.com/i-mabu/yoru-clock)             | 時計・アラーム・タイマー・ストップウォッチの時計アプリ（v1.2.0） | `Kotlin`            |
 | 📁 [FileXplorer](https://github.com/i-mabu/filexplorer-android) | Google Files風のAndroidファイルマネージャー（v1.2.0）            | `Kotlin`            |
 
 [→ すべての公開リポジトリを見る](https://github.com/i-mabu?tab=repositories)
+[→ mabu-works のリポジトリを見る](https://github.com/orgs/mabu-works/repositories)
 
-## 🎮 コミュニティ「まぶさば」
+## 🌐 Webサービス
+
+個人サイト [mabu.vercel.app](https://mabu.vercel.app) を拠点に、開発組織 [mabu-works](https://github.com/mabu-works) でWebサービスを公開しています。
+
+| サービス                                                    | 説明                             |
+| ----------------------------------------------------------- | -------------------------------- |
+| 🛡️ [AEGIS Web](https://bosai.vercel.app)                   | 地震・津波・天気の防災情報       |
+| 🖼️ [Make It a Quote](https://miaq.vercel.app)              | 引用画像メーカー                 |
+| 💬 [話題ガチャ](https://wadaiya.vercel.app)                 | 会話の話題をランダムに表示       |
+| 🎮 [まぶ鯖公式サイト](https://mabusaba.vercel.app)          | コミュニティ「まぶ鯖」の公式サイト |
+
+全17サービスは個人サイトにまとめています。
+
+## 🎮 コミュニティ「まぶ鯖」
 
 雑談・ゲーム・音楽・画像や動画の共有を楽しむ、公開Discordコミュニティを運営しています。
 ROM専・初見さんも歓迎です。

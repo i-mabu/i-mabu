@@ -28,20 +28,35 @@ the clearer the use case, the more fun it is to build, and the longer I keep imp
 - 🖥️ Windows desktop apps / an IME
 - 🧰 Developer tools (a code editor, among others)
 - 🛡️ Disaster information (earthquakes, tsunamis, weather)
+- 🌐 Web services (published on Vercel)
 
 ## 🚀 Public Projects
 
 | Project                                                         | Description                                                                        | Main languages      |
 | --------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------- |
 | 🧩 [FORGE](https://github.com/i-mabu/forgebot)                  | An extensible Discord bot that assembles server automation from Blueprints         | `TypeScript`        |
-| 🤖 [mabubot](https://github.com/inumabu/mabubot)                | A multi-purpose bot running in the "Mabusaba" Discord community                    | `TypeScript`        |
-| 🔊 [p1228](https://github.com/i-mabu/p1228)                     | A Discord bot system operating three VOICEVOX text-to-speech bots                  | `Go` · `TypeScript` |
+| 🤖 [mabubot](https://github.com/i-mabu/mabubot)                 | A multi-purpose bot for the "Mabusaba" Discord community                           | `TypeScript`        |
+| 🔊 [p1228](https://github.com/i-mabu/p1228)                     | A Discord bot system with VOICEVOX text-to-speech and AI features (current version: p1228-java, implemented in Java) | `Java`              |
 | 🛡️ [AEGIS Android](https://github.com/i-mabu/aegis-android)     | A disaster-prevention app: earthquakes, tsunamis, and weather at a glance (v1.8.0) | `Kotlin`            |
 | ⌨️ [YoruKana IME](https://github.com/i-mabu/yorukana-ime)       | A fully offline Japanese input method editor (v1.3.0)                              | `Kotlin`            |
 | 🕐 [Yoru Clock](https://github.com/i-mabu/yoru-clock)           | Clock, alarm, timer, and stopwatch in one app (v1.2.0)                             | `Kotlin`            |
 | 📁 [FileXplorer](https://github.com/i-mabu/filexplorer-android) | A Google Files-style Android file manager (v1.2.0)                                 | `Kotlin`            |
 
 [→ See all public repositories](https://github.com/i-mabu?tab=repositories)
+[→ See the mabu-works repositories](https://github.com/orgs/mabu-works/repositories)
+
+## 🌐 Web Services
+
+I publish web services under the development organization [mabu-works](https://github.com/mabu-works), with my personal site [mabu.vercel.app](https://mabu.vercel.app) as the hub.
+
+| Service                                                     | Description                                              |
+| ----------------------------------------------------------- | -------------------------------------------------------- |
+| 🛡️ [AEGIS Web](https://bosai.vercel.app)                   | Disaster information: earthquakes, tsunamis, and weather |
+| 🖼️ [Make It a Quote](https://miaq.vercel.app)              | Quote image maker                                        |
+| 💬 [Topic Gacha](https://wadaiya.vercel.app)                | Random conversation topics                               |
+| 🎮 [Mabusaba Official Site](https://mabusaba.vercel.app)    | Official site of the "Mabusaba" community                |
+
+All 17 services are listed on the personal site.
 
 ## 🎮 Community "Mabusaba"
 
