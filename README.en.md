@@ -37,7 +37,7 @@ the clearer the use case, the more fun it is to build, and the longer I keep imp
 | 🧩 [FORGE](https://github.com/mabu-bots/forgebot)                  | An extensible Discord bot that assembles server automation from Blueprints         | `TypeScript`        |
 | 🤖 [mabubot](https://github.com/mabu-bots/mabubot)                 | A multi-purpose bot for the "Mabusaba" Discord community                           | `TypeScript`        |
 | 🔊 [p1228](https://github.com/mabu-bots/p1228)                     | A Discord bot system with VOICEVOX text-to-speech and AI features (current version: p1228-java, implemented in Java) | `Java`              |
-| 🛡️ [AEGIS Android](https://github.com/i-mabu/aegis-android)     | A disaster-prevention app: earthquakes, tsunamis, and weather at a glance (v1.8.0) | `Kotlin`            |
+| 🛡️ [AEGIS Android](https://github.com/aegis-app/aegis-android)     | A disaster-prevention app: earthquakes, tsunamis, and weather at a glance (v1.8.0) | `Kotlin`            |
 | ⌨️ [YoruKana IME](https://github.com/i-mabu/yorukana-ime)       | A fully offline Japanese input method editor (v1.3.0)                              | `Kotlin`            |
 | 🕐 [Yoru Clock](https://github.com/i-mabu/yoru-clock)           | Clock, alarm, timer, and stopwatch in one app (v1.2.0)                             | `Kotlin`            |
 | 📁 [FileXplorer](https://github.com/i-mabu/filexplorer-android) | A Google Files-style Android file manager (v1.2.0)                                 | `Kotlin`            |
