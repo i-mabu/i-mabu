@@ -23,7 +23,7 @@ Discord Bot、Androidアプリ、デスクトップアプリ、開発者向け�
 サーバーで常時動くBot、毎日持ち歩くスマホのアプリ、自分の作業を楽にするツール——
 使う場面がはっきりしているものほど、作るのが楽しく、長く育てられます。
 
-- 🤖 Discord Bot（コミュニティ運営・読み上げ・自動化）
+- 🤖 Discord Bot（コミュニティ運営・読み上げ・自動化）— 開発組織 [mabu-bots](https://github.com/mabu-bots)
 - 📱 Androidアプリ（完全オフライン動作の実用アプリ）
 - 🖥️ Windows向けデスクトップアプリ / IME
 - 🧰 開発者向けツール（エディタなど）
@@ -58,6 +58,16 @@ Discord Bot、Androidアプリ、デスクトップアプリ、開発者向け�
 
 全17サービスは個人サイトにまとめています。
 
+## 🏢 組織
+
+開発は3つの組織に分けて行っています。
+
+| 組織 | 説明 |
+| --- | --- |
+| 🌐 [mabu-works](https://github.com/mabu-works) | Web サービスの開発組織（17サービスを Vercel で公開） |
+| 🤖 [mabu-bots](https://github.com/mabu-bots) | Discord Bot の開発組織（Bot 17件） |
+| 🛡️ [aegis-app](https://github.com/aegis-app) | 防災アシスタント「AEGIS」の開発組織 |
+
 ## 🎮 コミュニティ「まぶ鯖」
 
 雑談・ゲーム・音楽・画像や動画の共有を楽しむ、公開Discordコミュニティを運営しています。
@@ -73,7 +83,7 @@ ROM専・初見さんも歓迎です。
   <img src="https://skillicons.dev/icons?i=ts,kotlin,java,cs,cpp,go,python,js,html,react,vite,electron,docker&perline=10&theme=dark" alt="技術スタック" />
 </p>
 
-`TypeScript` · `Kotlin` · `Java` · `C#` · `C++` · `Go` · `Python` · `JavaScript` · `HTML` · `React` · `Vite` · `Electron` · `discord.js` · `VOICEVOX` · `Monaco Editor` · `SQLite` · `Docker`
+`TypeScript` · `Kotlin` · `Java` · `C#` · `C++` · `Go` · `Python` · `JavaScript` · `HTML` · `React` · `Next.js` · `Vercel` · `Vite` · `Electron` · `discord.js` · `VOICEVOX` · `Monaco Editor` · `SQLite` · `Docker`
 
 作りたいものに合わせて道具を選ぶので、スタックはプロジェクトごとに変わります。
 

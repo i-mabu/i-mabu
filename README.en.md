@@ -23,7 +23,7 @@ I build the things I want to use, and I start by making them work.
 Bots that run around the clock, apps that live on my phone, tools that make my own work easier —
 the clearer the use case, the more fun it is to build, and the longer I keep improving it.
 
-- 🤖 Discord bots (community management, text-to-speech, automation)
+- 🤖 Discord bots (community management, text-to-speech, automation) — developed under [mabu-bots](https://github.com/mabu-bots)
 - 📱 Android apps (practical, fully offline)
 - 🖥️ Windows desktop apps / an IME
 - 🧰 Developer tools (a code editor, among others)
@@ -58,6 +58,16 @@ I publish web services under the development organization [mabu-works](https://g
 
 All 17 services are listed on the personal site.
 
+## 🏢 Organizations
+
+Development is split across three organizations.
+
+| Organization | Description |
+| --- | --- |
+| 🌐 [mabu-works](https://github.com/mabu-works) | Web services — 17 services published on Vercel |
+| 🤖 [mabu-bots](https://github.com/mabu-bots) | Discord bots — 17 bot repositories |
+| 🛡️ [aegis-app](https://github.com/aegis-app) | The AEGIS disaster-prevention assistant |
+
 ## 🎮 Community "Mabusaba"
 
 I run a public Discord community for casual chat, games, music, and sharing images and videos.
@@ -73,7 +83,7 @@ Lurkers and first-time visitors are welcome.
   <img src="https://skillicons.dev/icons?i=ts,kotlin,java,cs,cpp,go,python,js,html,react,vite,electron,docker&perline=10&theme=dark" alt="Tech stack" />
 </p>
 
-`TypeScript` · `Kotlin` · `Java` · `C#` · `C++` · `Go` · `Python` · `JavaScript` · `HTML` · `React` · `Vite` · `Electron` · `discord.js` · `VOICEVOX` · `Monaco Editor` · `SQLite` · `Docker`
+`TypeScript` · `Kotlin` · `Java` · `C#` · `C++` · `Go` · `Python` · `JavaScript` · `HTML` · `React` · `Next.js` · `Vercel` · `Vite` · `Electron` · `discord.js` · `VOICEVOX` · `Monaco Editor` · `SQLite` · `Docker`
 
 The stack changes per project — the tool follows the idea, not the other way around.
 
